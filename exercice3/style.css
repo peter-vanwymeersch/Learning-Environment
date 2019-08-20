@@ -1,0 +1,18 @@
+/*Commentaire*/
+body {
+    /*background-color: rgba(135,67,250,98);*/
+    color: rgba(255,255,255,255);
+    background-size: 100% auto;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a {
+    text-align: center;    
+}
+iframe {
+    margin-left: 100px;
+}
